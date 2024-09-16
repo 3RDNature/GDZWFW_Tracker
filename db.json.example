@@ -1,0 +1,9 @@
+{
+	"users": [
+		{
+			"name": "[你的名字]",
+			"sblsh": "[办事流水号]",
+			"pushdeer": "[Pushdeer 的 token，用于接受推送]"
+		}
+	]
+}
